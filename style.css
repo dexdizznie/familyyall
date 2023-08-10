@@ -1,0 +1,15 @@
+body{
+    background-color: rgb(151, 202, 250);
+    font-family: 'Courier New', Courier, monospace;
+}
+ h3{
+    width:80%;
+    background-color: rgb(151, 202, 250);
+    font-weight: bold;
+ }
+
+ #camera{
+    width: 350px;
+    height: 300px;
+    border:2px dashed;
+ }
